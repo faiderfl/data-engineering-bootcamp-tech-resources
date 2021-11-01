@@ -1,6 +1,6 @@
 # Base Image
 FROM python:3.7-slim-buster
-LABEL maintainer="JuanEscobar"
+LABEL maintainer="Faider.Florez"
 
 # Arguments that can be set with docker build
 ARG AIRFLOW_VERSION=1.10.12
